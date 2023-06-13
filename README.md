@@ -1,14 +1,12 @@
 <!-- nguyenchihieu official -->
 <a href="#" target="_blank">
-  <img src="svg/hieuChiNguyen.svg" width="1200" alt="hieuchinguyen-official" />
+  <img src="svg/hieuChiNguyen.svg" width="1200" alt="Nguyen Chi Hiéu" />
 </a>
 
 <h2 align="center">🛠 Techs and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=3178C6" alt="Pandas logo" title="Pandas" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -42,6 +40,6 @@
 <h2 align="center">📑 My Favorite Quote 📑</h2>
 <br>
 <a align="center" href="#" target="_blank">
-  <img src="svg/hieuChiNguyen-quotes.svg" width="846" height="150" alt="hieuchinguyen-official" />
+  <img src="svg/hieuChiNguyen-quotes.svg" width="846" height="150" alt="Nguyen Chi Hieu" />
 </a>
 
