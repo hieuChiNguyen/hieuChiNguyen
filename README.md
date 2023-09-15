@@ -15,7 +15,7 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=reactjs&logoColor=D969DC" alt="ReactJS logo" title="ReactJS" height="25" /></span>
   &nbsp;
-  <span><img src="https://iconduck.com/icons/11295/next-js" alt="NextJS logo" title="NextJS" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=reactjs&logoColor=D969DC" alt="NodeJS logo" title="NodeJS" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=706E70" alt="Github logo" title="Github" height="25" /></span>
   &nbsp;
